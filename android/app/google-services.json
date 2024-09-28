@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707124892405",
+    "project_id": "fest-ho0e3d",
+    "storage_bucket": "fest-ho0e3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707124892405:android:51dc4cbca9b1c3601babbc",
+        "android_client_info": {
+          "package_name": "com.mycompany.hackfest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Jx0SJtRSf8MBDj1t6IfQGVVcdkp9Bxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
